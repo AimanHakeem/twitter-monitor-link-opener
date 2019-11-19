@@ -1,0 +1,20 @@
+{
+  "name": "monitor-link-opener",
+  "version": "1.0.0",
+  "description": "Auto link opener for discord twitter monitor.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AimanHakeem/twitter-monitor-link-opener"
+  },
+  "author": "Aiman Hakeem",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "electron": "^7.1.1",
+    "opn": "^6.0.0"
+  }
+}
